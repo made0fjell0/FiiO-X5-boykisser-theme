@@ -14,7 +14,7 @@ The files provided are an unpacked version of the firmware and a packed verion.
 <br>
 <h1>Customisation:</h1>
 <p>
-  If you want to make customisations to the unpacked firmware most of the files you want are probably in litegui/theme1
+  If you want to make customisations to the unpacked firmware most of the files you want are probably in unpacked_2.0/litegui/theme1
   <br>
   After making your changes you can repack the firmware into a .fw file using <a href="https://github.com/ssomers/FiiO-X3II">this</a> repository.
   <br>
